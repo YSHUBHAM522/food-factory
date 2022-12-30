@@ -1,0 +1,53 @@
+.col1 {
+    border: solid 0px #282c34;
+
+
+}
+
+.half_col {
+    height: 150px;
+    margin-left: -23px;
+}
+
+.last_col{
+
+    margin-left: -46px;
+}
+.color{
+    color: red;
+}
+
+.rating_left{
+    margin-left: -72px;
+
+}
+
+.rating_left1{
+    margin-left: -72px;
+    margin-top: -27px;
+
+}
+
+.rating_left2{
+    margin-left: -72px;
+    margin-top: -31px;
+
+}
+
+.Delivery_Reviews{
+    margin-left: -40px;
+
+}
+.Delivery_Reviews1{
+    margin-left: -40px;
+    margin-top: -26px;
+}
+.Delivery_Reviews2{
+    margin-left: -40px;
+    margin-top: -31px;
+}
+
+.direction_box{
+    position: fixed;
+}
+
